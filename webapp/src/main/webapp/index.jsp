@@ -5,7 +5,7 @@
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Rahul" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter phone</b></label>
@@ -13,7 +13,7 @@
     <br>
     
     <label for="mobile"><b>Enter bye</b></label>
-    <input type="text" placeholder="Enter Rahul moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter Rahul mobile number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter myEmail</b></label>
